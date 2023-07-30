@@ -1,1 +1,1 @@
-# workout-buddy
+# cooking-ninja
